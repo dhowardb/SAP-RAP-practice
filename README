@@ -5,3 +5,11 @@ Using legacy codes/abap codes like BAPI/BADIs in your RAP model
 or Brownfield implementation with SAP tables and functions
 
 https://github.com/SAP-samples/abap-platform-rap-opensap/blob/main/week4
+
+----Plans for enhancements----
+-Add drafts for unmanaged scenario references/links(
+https://answers.sap.com/questions/13203562/abap-restful-programming-model-unmanaged-draft-gen.html
+
+https://blogs.sap.com/2022/03/16/how-to-develop-an-unmanaged-draft-enabled-rap-business-object-with-semantic-keys/)
+
+-Create custom actions
