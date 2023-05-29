@@ -1,3 +1,7 @@
 SAP RAP
 Unmanaged scenario
 Using legacy codes/abap codes like BAPI/BADIs in your RAP model
+
+or Brownfield implementation with SAP tables and functions
+
+https://github.com/SAP-samples/abap-platform-rap-opensap/blob/main/week4
